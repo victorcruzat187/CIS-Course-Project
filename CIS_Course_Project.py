@@ -25,5 +25,5 @@ if materialsearch == "yes":
     print (f"The manager of {restaurant} called the police and {name} walked into the kitchen in search of a familiar smell.")
     print (f"In search of silver, {name} found exactly what they needed before police arrived and escaped back into the madness.")
 else:
-    print(f"\n{name} decided sneaking into a plublic place was probably a bad idea.")
+    print(f"\n{name} decided sneaking into a public place was probably a bad idea.")
     print(f"Instead of going to {restaurant}, {name} decided he could find what he was looking for outside.")
